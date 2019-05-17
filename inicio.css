@@ -11,3 +11,12 @@ p{
 	color: black;
 	font-family: sans-serif;
 }
+
+div#menu{
+background-color: #0b6d8d;
+}
+
+#link > div#menu{
+	font-size: 23.5px;
+	color: whitesmoke;
+}
