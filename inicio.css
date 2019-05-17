@@ -3,8 +3,11 @@ body, html{
   background-color: white;
 }
 
- a{
+.a{
 	margin: 7px;
+	font-size: 25px;
+	text-decoration: none;
+	color: white;
 }
 
 p{
@@ -14,9 +17,20 @@ p{
 
 div#menu{
 background-color: #0b6d8d;
+
 }
 
 #link > div#menu{
 	font-size: 23.5px;
 	color: whitesmoke;
+}
+ 
+div#menu li{
+	display: inline-block;
+	list-style: none;
+	margin: 35px;	
+}
+
+.texto{
+	color: #0b6d8d;
 }
